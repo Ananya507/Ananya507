@@ -1,125 +1,165 @@
-<h1 align="center">Hi 👋, I'm Ananya Majumdar</h1>
+<div align="center">
 
-<h3 align="center">
-Final Year Information Technology Student | AI & Machine Learning Enthusiast | Researcher
-</h3>
+# Hi 👋 I'm Ananya Majumdar
 
----
+### 🧠 AI Researcher | 🤖 Machine Learning Engineer | 🎓 Final Year IT Student
 
-## 👩‍💻 About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Researcher;Multimodal+Emotion+Recognition;Computer+Vision+%7C+NLP+%7C+Deep+Learning;Information+Retrieval+Research;Building+Human-Centered+AI+Systems" />
 
-🎓 Final Year B.Tech Information Technology Student
+<br>
 
-🤖 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, and Multimodal Systems
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&style=for-the-badge"/>
 
-📚 Research interests include Emotion AI, Information Retrieval, NLP, Computer Vision, and Human-Centered AI
-
-📝 Author of a research paper on Multimodal Emotion Recognition accepted at TIBS 2026
-
-💡 Building intelligent systems that combine text, audio, and visual understanding for real-world applications
+</div>
 
 ---
 
-## 🚀 Technical Skills
+# 🚀 Research Focus
 
-### Programming Languages
-- C++
-- Python
-- SQL
-
-### Machine Learning & AI
-- Scikit-Learn
-- PyTorch
-- TensorFlow
-- Hugging Face Transformers
-- Deep Learning
-- Natural Language Processing
-- Computer Vision
-
-### Data Science
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-
-### Development Tools
-- Git
-- GitHub
-- Jupyter Notebook
-- Google Colab
-- VS Code
+```text
+Artificial Intelligence
+├── Deep Learning
+├── Natural Language Processing
+├── Computer Vision
+├── Emotion AI
+├── Multimodal Learning
+├── Information Retrieval
+└── Human-Centered AI
+```
 
 ---
 
-## 🔬 Featured Projects
+# 👩‍💻 About Me
 
-### 🧠 Personalized AI Therapist using Multimodal Emotion Recognition
+🎓 Final Year Information Technology Student
 
-Developed an intelligent AI therapist capable of understanding user emotions through text, speech, and facial expressions.
+📝 Research Paper Accepted at TIBS 2026
 
-**Key Highlights**
-- Built a multimodal fusion framework integrating text, audio, and visual features.
-- Achieved high emotion classification performance across six emotional categories.
-- Generated context-aware therapeutic responses based on detected emotional states.
-- Utilized RoBERTa, Wav2Vec2, Vision Transformers, and Transformer-based fusion networks.
+🔬 Interested in Multimodal AI, Emotion Recognition, NLP and Computer Vision
 
-**Tech Stack**
-`PyTorch` `Transformers` `Computer Vision` `Speech Processing` `NLP`
+🤖 Building AI systems that understand text, speech and visual information simultaneously
+
+📚 Currently exploring LLMs, RAG Systems and AI Agents
 
 ---
 
-### 🍽️ Nutri-Vision AI: Smart Recipe Generator & Nutrition Analyzer
+# 🛠️ Technology Stack
 
-An AI-powered food intelligence system that identifies food from images and provides nutritional insights.
+### Languages
 
-**Key Highlights**
-- Food image recognition using deep learning models.
-- Nutrition analysis and calorie estimation.
-- Recipe recommendation system.
-- Healthier alternative food suggestions using AI.
-
-**Tech Stack**
-`Computer Vision` `Deep Learning` `Nutrition AI` `Python`
-
----
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-## 📊 GitHub Statistics
+### AI & Machine Learning
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" />
+**Frameworks & Libraries**
+
+* Hugging Face Transformers
+* Scikit-Learn
+* OpenCV
+* NumPy
+* Pandas
+* Matplotlib
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
-</p>
-
-
-
-## 🌱 Currently Learning
-
-- Advanced Deep Learning
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-- Generative AI Applications
 
 ---
 
-## 📫 Connect With Me
+# 🔬 Featured Projects
 
-- LinkedIn: [[https://www.linkedin.com/in/ananya-majumdar-7032a6263/)(https://www.linkedin.com/in/ananya-majumdar-7032a6263/)]
+## 🧠 Personalized AI Therapist
 
+### Multimodal Emotion Recognition & Therapeutic Response System
+
+✔ Emotion Detection from Text, Audio and Video
+
+✔ Transformer-Based Multimodal Fusion Architecture
+
+✔ Context-Aware Therapeutic Response Generation
+
+✔ Six Emotion Classification Framework
+
+**Tech Used**
+
+`PyTorch` `RoBERTa` `Wav2Vec2` `Computer Vision` `Transformers`
 
 ---
 
-⭐ If you like my work, consider giving a star to my repositories!
+## 🍽️ Nutri-Vision AI
+
+### Smart Recipe Generator & Nutrition Analyzer
+
+✔ Food Recognition from Images
+
+✔ Nutrition & Calorie Estimation
+
+✔ Recipe Recommendation Engine
+
+✔ Healthier Food Alternative Suggestions
+
+**Tech Used**
+
+`Computer Vision` `Deep Learning` `Python`
+
+---
+
+
+
+# 🏆 Achievements
+
+🥇 Research Paper Accepted at TIBS 2026
+
+🧠 Developed End-to-End Multimodal Emotion Recognition System
+
+📊 Conducted Research in Information Retrieval using Transformer Models
+
+🍽️ Built AI-Powered Nutrition Intelligence Platform
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌱 Currently Learning
+
+```text
+✓ Large Language Models (LLMs)
+✓ Retrieval-Augmented Generation (RAG)
+✓ AI Agents
+✓ Advanced Deep Learning
+✓ Generative AI
+```
+
+---
+
+# 📫 Connect With Me
+
+💼 LinkedIn
+
+[www.linkedin.com/in/ananya-majumdar-7032a6263](http://www.linkedin.com/in/ananya-majumdar-7032a6263)
+
+---
+
+<div align="center">
+
+### ⭐ "Building AI that understands people, not just data."
+
+</div>
