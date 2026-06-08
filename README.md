@@ -128,16 +128,15 @@ Artificial Intelligence
 
 ## 📊 GitHub Analytics
 
-[<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ananya507&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya507&layout=compact&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ananya507&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya507&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ananya507&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ananya507&theme=radical&no-frame=true&margin-w=15" />
 </p>
-](https://github.com/Ananya507)
----
+
 
 # 🌱 Currently Learning
 
