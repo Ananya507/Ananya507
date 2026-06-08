@@ -126,15 +126,10 @@ Artificial Intelligence
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 Contribution Graph
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ananya507&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya507&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ananya507&theme=radical&no-frame=true&margin-w=15" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ananya507&theme=github-compact" />
 </p>
 
 
