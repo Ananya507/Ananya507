@@ -82,7 +82,13 @@ An AI-powered food intelligence system that identifies food from images and prov
 `Computer Vision` `Deep Learning` `Nutrition AI` `Python`
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 ## 📊 GitHub Statistics
 
 <p align="center">
