@@ -2,7 +2,7 @@
 
 # Hi 👋 I'm Ananya Majumdar
 
-### 🧠 AI Researcher | 🤖 Machine Learning Engineer | 🎓 Final Year IT Student
+### 🧠 AI Researcher | 🤖 Machine Learning Engineer | 🎓 IT Graduate
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Researcher;Multimodal+Emotion+Recognition;Computer+Vision+%7C+NLP+%7C+Deep+Learning;Information+Retrieval+Research;Building+Human-Centered+AI+Systems" />
 
